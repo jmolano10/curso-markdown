@@ -49,3 +49,30 @@ Para terminar, para crear listas anidadas o sublistas, lo que se hace es indenta
     * Elemento 3
 3. Elemento 3
 4. Elemento 4
+----
+# Prueba de listas desordenadas
+
+* Elemento 1
+* Elemento 2
++ Elemento 3
++ Elemento 4
+- Elemento 5
+- Elemento 6
+
+# Prueba listas numeradas
+
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+
+# Prueba de listas y sublistas
+
+1. Elemento 1
+    * Elemento 1.1 Asterisco
+    * Elemento 1.2 Asterisco
+    + Elemento 1.3 Más
+    + ELemento 1.4 Más
+    - Elemento 1.5 menos
+    - Elemento 1.6 menos
+2. Elemento 2
+3. Elemento 3

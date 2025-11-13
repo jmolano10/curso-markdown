@@ -21,3 +21,13 @@ Este seria el ejemplo de una cita anidada en otra:
 > Esto es una cita normal
 >> Esta ya seria una cita anidada
 ```
+
+# Citas de prueba
+
+> Cita de prueba
+
+# Citas anidadas de prueba
+
+> Cita principal
+>> Cita secundaria
+

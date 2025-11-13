@@ -10,3 +10,8 @@ Es muy simple, para colocar una cadena de texto en cursiva simplemente se pone e
 | *cursiva*                      | `*cursiva*`                      |
 | **_ambas_**                    | `**_ambas_**`                    |
 | *texto **anidado** de ejemplo* | `*texto **anidado** de ejemplo*` |
+
+**negrita** soy negrita  
+_cursiva_ soy cursiva  
+__*ambas*__ soy ambas  
+_texto __anidado__ de ejemplo_

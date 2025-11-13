@@ -100,8 +100,8 @@ Nos da esta salida:
 ---
 
 Lorem ipsum dolor sit amet,  
- consectetur adipiscing elit.   
- Phasellus eget lectus dolor.   
+consectetur adipiscing elit.   
+Phasellus eget lectus dolor.   
  Sed in convallis est.   
  Sed commodo magna id risus hendrerit,   
  in sodales felis luctus.   
@@ -119,3 +119,6 @@ Lorem ipsum dolor sit amet,
  Cras dignissim non est vel facilisis.
 
  ---
+
+ Hola soy un parrafo  
+ soy otro renglon

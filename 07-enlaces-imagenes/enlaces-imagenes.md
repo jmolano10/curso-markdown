@@ -64,3 +64,16 @@ En código seria esto:
 
 
 [perfilUdemy]: https://www.udemy.com/user/carlos-antonio-macias-duarte/
+
+# Enlaces de prueba con etiquetas
+
+[Enlace a mi LinkedIn](www.linkedin.com/in/david-julian-molano-peralta-93256a67 "Añademe a LinkedIn y conversamos")
+
+# Prueba enlaces referenciados
+
+Aqui vamos a probar los encales referenciados 
+
+[Mi Perfil de Github][MiRepostorioGithub]
+
+[MiRepostorioGithub]: https://github.com/jmolano10/curso-markdown "Prueba Etiqueta"
+

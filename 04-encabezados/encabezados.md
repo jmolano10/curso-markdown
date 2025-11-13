@@ -69,3 +69,15 @@ Nivel 2
 ___
 ---
 ```
+
+Prueba nivel 1
+===
+
+Prueba nivel 2
+---
+Vamos a probar encerrar un texto  
+Despues de esta linea
+___
+Encerrar texto
+___
+___
